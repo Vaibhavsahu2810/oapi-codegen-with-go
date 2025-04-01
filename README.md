@@ -2,8 +2,6 @@
 
 A RESTful API in Go for managing software licenses, generated from an OpenAPI 3.0 specification using [`oapi-codegen`](https://github.com/oapi-codegen/oapi-codegen). Built with the Gin web framework and includes Swagger UI for API documentation.
 
----
-
 ## Features
 
 - OpenAPI 3.0 spec-driven development
@@ -12,14 +10,14 @@ A RESTful API in Go for managing software licenses, generated from an OpenAPI 3.
 - Create/Update License endpoints
 - Integrated Swagger UI for interactive documentation
 
----
+
 
 ##  Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/oapi-codegen-with-go.git
+git clone https://github.com/Vaibhavsahu2810/oapi-codegen-with-go.git
 cd oapi-codegen-with-go
 ```
 
